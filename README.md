@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello guys👋
 
-<!--
-**LEVI-DEVIA/LEVI-DEVIA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Jeune développeur IA ; je suis un étudiant en 3ème année de Licence en Méthode Informatique Appliquée à la Gestion des Entreprises (MIAGE) dans une Université Ivoirienne.
+L' IA est un domaine qui me pationne avec ces nombreux utilités dans nos quotidiens tel que les assistants vocaux pour une meilleur recherche ou autre, les chatbot pour autaumatiser des tâches, les prédictions sur des données pour anticiper certains faits et bien plus d'utilités.
+J'étudie l'IA et je conçoit des systèmes(programme et application) basés sur de l' intelligence artificielle touchant à n'importe quelles domaines.
+Je veux plus me spécialiser dans la **NLP (Natural Language Processing)**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Alors que l'aventure commence 🤩
+
+Actuellement:
+
+- 🔭 Je travaille sur un projet concernant la classification d'un texte d'une recette en cuisine à l'aide de la NLP et de la régression logistique
+- 🌱 Je suis en train d'apprendre la NLP
+- 📫 Comment me joindre: Linkedin
+- ⚡ Fait amusant: je joue du Basketball
+
