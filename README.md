@@ -15,3 +15,20 @@ Actuellement:
 - 📫 Comment me joindre: Linkedin
 - ⚡ Fait amusant: je joue du Basketball
 
+------
+### Language et outils 💻:
+<img align='left' width='60px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="padding-right:11px;"><img/>
+<img align='left' width='60px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:11px;"><img/>
+<img align='left' width='60px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:11px;"><img/>
+<img align='left' width='60px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openal/openal-original.svg" style="padding-right:11px;"><img/>
+<img align='left' width='60px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="padding-right:11px;"><img/>
+<img align='left' width='60px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="padding-right:11px;"><img/>
+<img align='left' width='60px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="padding-right:11px;"><img/>
+<img align='left' width='60px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="padding-right:11px;"><img/>
+<img align='left' width='60px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:11px;"><img>
+
+
+
+### 👌 <hr/>
+### ✨ Statistiques GitHub 
+![GHstats](https://github-readme-stats.vercel.app/api?username=LEVI-DEVIA&show_icons=true)
