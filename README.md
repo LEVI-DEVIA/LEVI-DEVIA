@@ -25,7 +25,7 @@ Actuellement:
 <img align='left' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="padding-right:11px;"><img/>
 <img align='left' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="padding-right:11px;"><img/>
 <img align='left' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="padding-right:11px;"><img/>
-<img align='left' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:11px;"><img>
+<img align='left' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:11px;"><img> </br></br>
 
 
 
