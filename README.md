@@ -5,12 +5,12 @@ Je suis un data scientist junior passionné par les sciences des données et l'i
 
 ### Mes compétences 👨🏾‍💻
 
-Maîtrise des langages de programmation tels que Python, R et SQL pour manipuler et analyser les données
-Expertise dans l'utilisation des bibliothèques et frameworks de machine learning comme scikit-learn, TensorFlow et PyTorch
-Capacité à collecter, nettoyer, explorer et préparer des jeux de données complexes
-Connaissance approfondie des techniques d'apprentissage supervisé, non supervisé et par renforcement
-Aptitude à communiquer de manière claire et concise les insights et les résultats de mes analyses
-Bonne compréhension des enjeux éthiques liés à l'utilisation de l'IA
+- Maîtrise des langages de programmation tels que Python, R et SQL pour manipuler et analyser les données
+- Expertise dans l'utilisation des bibliothèques et frameworks de machine learning comme scikit-learn, TensorFlow et PyTorch
+- Capacité à collecter, nettoyer, explorer et préparer des jeux de données complexes
+- Connaissance approfondie des techniques d'apprentissage supervisé, non supervisé et par renforcement
+- Aptitude à communiquer de manière claire et concise les insights et les résultats de mes analyses
+- Bonne compréhension des enjeux éthiques liés à l'utilisation de l'IA
 
 Alors que l'aventure commence 🤩
 
