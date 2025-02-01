@@ -34,10 +34,4 @@ Actuellement:
 <img align='left' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:11px;"><img> </br></br>
 
 
-
-###  <hr/>
-### ✨ Statistiques GitHub 
-![GHstats](https://github-readme-stats.vercel.app/api?username=LEVI-DEVIA&show_icons=true)
-
-
   ### @LEVI_DEVIA
