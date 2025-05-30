@@ -1,37 +1,54 @@
-### Hello guys👋
+# Salut ! 👋 Je suis Levi
 
+**AI Engineer** passionné par la création d'solutions intelligentes qui transforment les idées en produits concrets. J'aime construire des systèmes IA robustes et déployer des modèles qui apportent une vraie valeur aux utilisateurs.
 
-Je suis un data scientist junior passionné par les sciences des données et l'intelligence artificielle. Mon objectif est d'utiliser les outils de l'analyse de données et du machine learning pour résoudre des problèmes concrets et créer de la valeur pour les entreprises.
+## Ce que je fais au quotidien 🚀
 
-### Mes compétences 👨🏾‍💻
+Je conçois et développe des applications IA de bout en bout : de la collecte des données jusqu'au déploiement en production. Mon truc, c'est de rendre l'intelligence artificielle accessible et utilisable dans le monde réel.
 
-- Maîtrise des langages de programmation tels que Python, R et SQL pour manipuler et analyser les données
-- Expertise dans l'utilisation des bibliothèques et frameworks de machine learning comme scikit-learn, TensorFlow et PyTorch
-- Capacité à collecter, nettoyer, explorer et préparer des jeux de données complexes
-- Connaissance approfondie des techniques d'apprentissage supervisé, non supervisé et par renforcement
-- Aptitude à communiquer de manière claire et concise les insights et les résultats de mes analyses
-- Bonne compréhension des enjeux éthiques liés à l'utilisation de l'IA
+**Mes domaines de prédilection :**
+- Développement d'APIs IA et microservices
+- Déploiement de modèles ML en production (MLOps)
+- Traitement du langage naturel (NLP)
+- Computer Vision et analyse d'images
+- Optimisation de performances des modèles
 
-Alors que l'aventure commence 🤩
+## En ce moment 🔥
+- 🔭 Je bosse sur le concept de MCP (Model Context Protocol)
+- 📫 On peut se connecter sur [LinkedIn](www.linkedin.com/in/assale-levi-jonathan-yao)
+- ⚡ Fun fact : je drible aussi bien avec un ballon qu'avec du code ! 🏀
 
-Actuellement:
+---
 
-- 🔭 Je travaille sur un projet concernant la classification d'un texte d'une recette en cuisine à l'aide de la NLP et de la régression logistique
-- 🌱 Je suis en train d'apprendre la NLP
-- 📫 Comment me joindre: Linkedin
-- ⚡ Fait amusant: je joue du Basketball
+## Ma stack technique 💻
 
-------
-### Language et outils 💻:
-<img align='left' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="padding-right:11px;"><img/>
-<img align='left' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:11px;"><img/>
-<img align='left' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:11px;"><img/>
-<img align='left' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openal/openal-original.svg" style="padding-right:11px;"><img/>
-<img align='left' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="padding-right:11px;"><img/>
-<img align='left' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="padding-right:11px;"><img/>
-<img align='left' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="padding-right:11px;"><img/>
-<img align='left' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="padding-right:11px;"><img/>
-<img align='left' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:11px;"><img> </br></br>
+### Langages & Frameworks
+<img align='left' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:11px;">
+<img align='left' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:11px;">
+<img align='left' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="padding-right:11px;">
+<img align='left' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" style="padding-right:11px;">
+<img align='left' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" style="padding-right:11px;">
 
+<br><br>
 
-  ### @LEVI_DEVIA
+### Cloud & DevOps
+<img align='left' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style="padding-right:11px;">
+<img align='left' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" style="padding-right:11px;">
+<img align='left' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="padding-right:11px;">
+<img align='left' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" style="padding-right:11px;">
+
+<br><br>
+
+### Outils & Environnements  
+<img align='left' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:11px;">
+<img align='left' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:11px;">
+<img align='left' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:11px;">
+<img align='left' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="padding-right:11px;">
+
+<br><br>
+
+---
+
+*Toujours prêt à discuter de nouveaux projets IA ou à partager un match de basket ! 🎯*
+
+**@LEVI_DEVIA**
